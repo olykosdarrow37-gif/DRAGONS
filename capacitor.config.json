@@ -1,0 +1,9 @@
+{
+  "appId": "com.valiryan.freehold",
+  "appName": "VALIRYAN FREEHOLD",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

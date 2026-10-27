@@ -1,0 +1,18 @@
+{
+  "name": "valiryan-freehold",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VALIRYAN FREEHOLD custom browser-style Android app",
+  "scripts": {
+    "build": "echo Static HTML app assets are in www/",
+    "android:add": "cap add android",
+    "android:sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}
